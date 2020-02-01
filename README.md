@@ -24,7 +24,7 @@ file is opened in a share sheet where it may be copied to any app, such as VLC.
 
     ```sh
     $ cd
-    $ git clone https://github.com/Roman2K/youtube-dl-ios
+    $ git clone https://github.com/Roman2K/youtube-dl-ios.git
     ```
 
 5. Install the shortcut: [iCloud link][shortcut]
